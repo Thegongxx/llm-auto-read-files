@@ -4,7 +4,7 @@ llm automatically read files
 
 ## 项目结构  
 Project/  
-├── data/
+├── data/  
 │   ├── raw/             # 你的旧报告（用于风格学习）  
 │   └── templates/       # 空白实验报告模板  
 ├── db/                  # 向量数据库存储  
